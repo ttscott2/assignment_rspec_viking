@@ -1,5 +1,7 @@
 assignment_rspec_ruby_sprint
 ============================
+### by Tim Scott
+
 
 Testing, testing, 1, 2, 3
 
